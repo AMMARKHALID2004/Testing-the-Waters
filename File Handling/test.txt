@@ -1,0 +1,3 @@
+my name is Ammar Khalid 
+I am learning file handling in Python
+Hello World
